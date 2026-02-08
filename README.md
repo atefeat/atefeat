@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Atefeh 👋
 
-<!--
-**atefeat/atefeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior QA with a **process-aware mindset**.
+I focus on **manual testing**, **risk-based testing**, and translating
+business/user flows into clear test scenarios and actionable bug reports.
 
-Here are some ideas to get you started:
+## What I do
+- Derive test scenarios from user flows (not just UI clicks)
+- Identify **business risks** (user drop-off, conversion issues)
+- Identify **security risks** (abuse, enumeration, brute-force)
+- Write clear, reproducible bug reports with severity & priority
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured case studies
+- Registration flow with email verification (process-driven QA)
+- Login flow with failed attempts & time-based lockout (risk-based QA)
+
+## Skills
+Manual Testing · Test Scenarios · Bug Reporting · Risk-Based Testing · Web Application Testing · BPMN
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/atefeh-arab-9328a1245/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgVU1%2BfgWRbWq6ZwS3kfrYQ%3D%3
