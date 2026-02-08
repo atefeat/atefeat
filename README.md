@@ -11,8 +11,10 @@ business/user flows into clear test scenarios and actionable bug reports.
 - Write clear, reproducible bug reports with severity & priority
 
 ## Featured case studies
-- Registration flow with email verification (process-driven QA)
+## Featured case studies
+- [Registration flow with email verification](https://github.com/atefeat/qa-registration-bpmn-case-study)
 - Login flow with failed attempts & time-based lockout (risk-based QA)
+
 
 ## Skills
 Manual Testing · Test Scenarios · Bug Reporting · Risk-Based Testing · Web Application Testing · BPMN
